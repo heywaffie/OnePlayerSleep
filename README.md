@@ -3,7 +3,7 @@
 **OnePlayerSleep** is a lightweight, optimized Minecraft plugin that allows a single player to skip the night by sleeping, instead of requiring all players to sleep. Perfect for servers where players are spread across different areas or time zones.
 **Version:** 3.6.4 
 **Author:** Luno
-
+Download: https://modrinth.com/project/RfE1BSdK
 ![OnePlayerSleep](https://cdn.modrinth.com/data/cached_images/48e2fa9057a8f535b9676e028629c66b4b998b2a.png)
 
 ## 📖 Overview
